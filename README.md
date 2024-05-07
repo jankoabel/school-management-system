@@ -1,18 +1,16 @@
 # School Management System with ASP.NET Core 7 MVC
 
-This repository contains the source code for a school management system built using ASP.NET Core 7 MVC. The project is designed to provide an educational resource for developers looking to build cross-platform web applications using the latest version of the .NET Core framework.
 
-The project is a supporting repository for the course called "ASP.NET Core 7 MVC - Cross-Platform Development," which can be found at this URL: https://www.udemy.com/course/learn-aspnet-mvc-and-entity-framework/?referralCode=3B3CCAC77E3C70EF5B36.
-
+The project is a supporting repository for the course called "ASP.NET Core 7 MVC - Cross-Platform Development.
 ## Table of Contents
 
-- [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [School Management System with ASP.NET Core 7 MVC](#school-management-system-with-aspnet-core-7-mvc)
+  - [Table of Contents](#table-of-contents)
+  - [Technologies](#technologies)
+  - [Getting Started](#getting-started)
+  - [Project Structure](#project-structure)
+  - [Features](#features)
+  - [Documentation](#documentation)
 
 ## Technologies
 
@@ -63,19 +61,5 @@ The repository contains documentation for each of the features, including:
 
 The documentation is designed to be accessible to developers of all skill levels, from beginners to advanced users.
 
-## Contributing
-
-Contributions to this repository are welcome. If you have a feature or educational resource that you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them to your branch.
-4. Submit a pull request.
-
-Please ensure that your contributions adhere to the repository's code of conduct and that they are well-documented and follow best practices.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 
