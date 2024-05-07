@@ -59,7 +59,7 @@ The repository contains documentation for each of the features, including:
 - Code walkthroughs and explanations
 - Best practices and tips for working with the feature
 
-The documentation is designed to be accessible to developers of all skill levels, from beginners to advanced users.
+
 
 
 
